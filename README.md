@@ -1,3 +1,7 @@
+#--HELLO
+
+
+
 Parental Control System for Windows (Batch Script)
 hello, ever wanted somebody to get off your damn PC or device when you said so? well look here , a simple bat script that you can set up quickly before the Guest starts using it!
 the passcode is 0000
